@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92fbd1ad-af47-4fe4-8a80-ef3c6d5d4b68" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\123.html" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\static\javascript\angular-duoshuo.js" afterPath="$PROJECT_DIR$/angular-duoshuo.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\.idea\workspace.xml" afterPath="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\.idea\workspace.xml" />
     </list>
     <ignored path="angular-duoshuo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,34 +38,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="10" selection-start="18" selection-end="18" vertical-scroll-proportion="0.029259896" vertical-offset="0" max-vertical-offset="581">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/myapp/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="29" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/myapp/templates/detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="16" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="6" selection-start="689" selection-end="689" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="442">
+            <state line="2" column="9" selection-start="22" selection-end="22" vertical-scroll-proportion="0.05851979" vertical-offset="0" max-vertical-offset="581">
               <folding />
             </state>
           </provider>
@@ -145,20 +115,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -271,27 +227,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="6" selection-start="689" selection-end="689" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/myapp/templates/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="16" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="136">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/myapp/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="29" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/angular-duoshuo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="22" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1360">
@@ -301,7 +236,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="10" selection-start="18" selection-end="18" vertical-scroll-proportion="0.029259896" vertical-offset="0" max-vertical-offset="581">
+        <state line="2" column="9" selection-start="22" selection-end="22" vertical-scroll-proportion="0.05851979" vertical-offset="0" max-vertical-offset="581">
           <folding />
         </state>
       </provider>
