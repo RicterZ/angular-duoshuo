@@ -2,7 +2,8 @@ angular-duoshuo
 ===============
 
 这是一个Angular的插件。    
-修改自 https://github.com/kirstein/angular-disqus 。    
+修改自: https://github.com/kirstein/angular-disqus 。    
+Demo: http://static.ricter.info/angular-duoshuo
 
 
 ##用法
@@ -12,6 +13,9 @@ angular-duoshuo
     {
         short_name: "angular-hentai"
     }
+
+##注意
+**还有Bug**，虽然不影响使用但是看着不爽
 
 ##许可证
 MIT
