@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92fbd1ad-af47-4fe4-8a80-ef3c6d5d4b68" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ricter.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/angular-duoshuo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/javascript/angular-duoshuo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/myapp/templates/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/myapp/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\123.html" afterPath="" />
+      <change type="MOVED" beforePath="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\static\javascript\angular-duoshuo.js" afterPath="$PROJECT_DIR$/angular-duoshuo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular-duoshuo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,10 +29,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="angular-duoshuo.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/javascript/angular-duoshuo.js">
+      <file leaf-file-name="angular-duoshuo.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angular-duoshuo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="41" selection-start="1756" selection-end="1756" vertical-scroll-proportion="0.40963855" vertical-offset="765" max-vertical-offset="1360">
+            <state line="7" column="22" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="10" selection-start="18" selection-end="18" vertical-scroll-proportion="0.029259896" vertical-offset="0" max-vertical-offset="581">
               <folding />
             </state>
           </provider>
@@ -64,7 +68,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="6" selection-start="709" selection-end="709" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="442">
+            <state line="20" column="6" selection-start="689" selection-end="689" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="442">
               <folding />
             </state>
           </provider>
@@ -89,6 +93,7 @@
         <option value="$PROJECT_DIR$/static/javascript/angular-duoshuo.js" />
         <option value="$PROJECT_DIR$/static/myapp/templates/detail.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -156,50 +161,6 @@
               <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="angular-duoshuo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -216,6 +177,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ricter\Documents\GitHub\angular-duoshuo" />
       <recent name="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\static\javascript" />
       <recent name="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\static\myapp" />
       <recent name="C:\Users\Ricter\Documents\GitHub\angular-duoshuo\static\javascripts" />
@@ -311,7 +273,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="6" selection-start="709" selection-end="709" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="442">
+        <state line="20" column="6" selection-start="689" selection-end="689" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="442">
           <folding />
         </state>
       </provider>
@@ -330,9 +292,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/javascript/angular-duoshuo.js">
+    <entry file="file://$PROJECT_DIR$/angular-duoshuo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="41" selection-start="1756" selection-end="1756" vertical-scroll-proportion="0.40963855" vertical-offset="765" max-vertical-offset="1360">
+        <state line="7" column="22" selection-start="138" selection-end="138" vertical-scroll-proportion="0.0" vertical-offset="779" max-vertical-offset="1360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="10" selection-start="18" selection-end="18" vertical-scroll-proportion="0.029259896" vertical-offset="0" max-vertical-offset="581">
           <folding />
         </state>
       </provider>
