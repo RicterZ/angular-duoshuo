@@ -8,6 +8,7 @@ Demo: http://static.ricter.info/angular-duoshuo
 
 ##用法
 在你需要的地方加上`<div duoshuo="id"></div>`，此处id为唯一标识符。    
+别忘了设置app，`var myapp = angular.module('myapp', [..., 'ngDuoshuo'])`    
 你需要设置`window.duoshuoQuery`中的`short_name`，例如： 
 
     {
