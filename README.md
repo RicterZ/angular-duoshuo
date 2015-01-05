@@ -3,7 +3,7 @@ angular-duoshuo
 
 这是一个Angular的插件。    
 修改自: https://github.com/kirstein/angular-disqus 。    
-Demo: http://static.ricter.info/angular-duoshuo
+Demo: http://static.ricter.me/angular-duoshuo
 
 
 ##用法
